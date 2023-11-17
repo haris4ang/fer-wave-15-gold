@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hello World Page</title>  
+    </head>
+    <body>
+        <div style="font-size: 30px">Hello World, This is my new page</div>
+    </body>
+</html>
